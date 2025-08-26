@@ -2,6 +2,8 @@
 
 A virtual reality shooting simulator built with Unreal Engine 5, featuring two distinct shooting exercises with realistic weapon mechanics.
 
+[![VR Gun Range](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=EPrb9Z0E9HA)
+
 ## Overview
 
 VR Gun Range offers an immersive shooting experience in virtual reality, challenging players with both static and moving target scenarios. The game emphasizes accuracy and reaction time through realistic weapon handling and physics-based interactions.
