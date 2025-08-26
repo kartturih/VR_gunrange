@@ -2,7 +2,7 @@
 
 A virtual reality shooting simulator built with Unreal Engine 5, featuring two distinct shooting exercises with realistic weapon mechanics.
 
-[![VR Gun Range](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=EPrb9Z0E9HA)
+[![VR Gun Range](https://www.google.com/imgres?q=yt%20dark&imgurl=https%3A%2F%2Fwww.techspot.com%2Fimages2%2Fnews%2Fbigimage%2F2017%2F04%2F2017-04-14-image-13.jpg&imgrefurl=https%3A%2F%2Fwww.techspot.com%2Fnews%2F68959-youtube-has-dark-mode-here-how-you-enable.html&docid=KejbihY2ZxaCQM&tbnid=Dk43bkZm0cOvhM&vet=12ahUKEwjlnOrJuKiPAxWLHRAIHViZHWMQM3oECCIQAA..i&w=773&h=481&hcb=2&ved=2ahUKEwjlnOrJuKiPAxWLHRAIHViZHWMQM3oECCIQAA)](https://www.youtube.com/watch?v=EPrb9Z0E9HA)
 
 ## Overview
 
